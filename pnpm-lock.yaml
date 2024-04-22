@@ -1783,7 +1783,7 @@ importers:
         version: 0.1.1
       '@mercuriusjs/gateway':
         specifier: ^3.0.0
-        version: 3.0.0
+        version: 3.0.1
       '@platformatic/sql-events':
         specifier: workspace:*
         version: link:../sql-events
@@ -3083,8 +3083,8 @@ packages:
       - bufferutil
       - utf-8-validate
 
-  /@mercuriusjs/gateway@3.0.0:
-    resolution: {integrity: sha512-KBShjsz5Q1DhEdH4GE9Z97vzaauJPwIhTxrTJL4uMs80z2DujiXGdiNSNpYBN3Dyi1Dn9pOg2WJ/TEAsyNg6hQ==}
+  /@mercuriusjs/gateway@3.0.1:
+    resolution: {integrity: sha512-t/a3U3SQS4bd0iiOzHUaqbnp7VSoHIGICyQFKYsQHPEGO8yhmZGk2zfAvDG5J2dgioPnk2af6BGA+/WZRlAlnw==}
     dependencies:
       '@mercuriusjs/federation': 3.0.0
       '@mercuriusjs/subscription-client': 1.0.0(graphql@16.8.1)
